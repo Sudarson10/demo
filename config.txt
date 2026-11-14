@@ -1,0 +1,4 @@
+Application Configuration
+PORT=8080
+DATABASE=MySQL
+ENVIRONMENT=DEV
