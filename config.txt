@@ -1,4 +1,4 @@
 Application Configuration
-PORT=8081
+PORT=1002
 DATABASE=MySQL
 ENVIRONMENT=DEV
